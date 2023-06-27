@@ -3,9 +3,9 @@
         {
             "id":1,
             "Nombre": "Maria",
-            "Celular": "3015000303",
+            "Celular": "3003003030",
             "Contraseña": "maria123",
-            "Foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj1KfaYOrwIrPVG_Yy3mNQgZ68_dXsawEi6w&usqp=CAU",
+            "Foto": "https://vivolabs.es/wp-content/uploads/2022/03/perfil-mujer-vivo.png",
             "Estado": "En linea",
             "Informción": "Estudiando",
             "Fecha_hora": null
@@ -15,7 +15,7 @@
             "Nombre": "Sebastian",
             "Celular": "3005006363",
             "Contraseña": "sebas123",
-            "Foto": "https://www.blogdelfotografo.com/wp-content/uploads/2022/01/retrato-anillo-luz.webp",
+            "Foto": "https://www.labsaenzrenauld.com/wp-content/uploads/2020/10/Perfil-hombre-ba%CC%81sico_738242395.jpg",
             "Estado": "En linea",
             "Informción": "Trabajando",
             "Fecha_hora": null
@@ -25,7 +25,7 @@
             "Nombre": "Alejandro",
             "Celular": "3002004545",
             "Contraseña": "alejo123",
-            "Foto": "https://img.freepik.com/foto-gratis/primer-disparo-hombre-guapo-sonriendo_181624-41237.jpg",
+            "Foto": "https://aufloria.com/wp-content/uploads/2021/02/WhatsApp-Image-2021-02-18-at-14.18.38-2.jpeg",
             "Estado": "Desconectado",
             "Informción": "Ocupado",
             "Fecha_hora": null
@@ -35,7 +35,7 @@
             "Nombre": "Jeronimo",
             "Celular": "3049005656",
             "Contraseña": "jero123",
-            "Foto": "https://media.licdn.com/dms/image/C4D03AQExyXZIV7hP6w/profile-displayphoto-shrink_800_800/0/1631281341744?e=2147483647&v=beta&t=xwsiHNzN9b0Wgb75VaYvvBbDGv_XCus76WiZpyNJAMY",
+            "Foto": "https://p0.pikist.com/photos/201/646/man-profile-portrait-person-face-hood-bart-head-wall.jpg",
             "Estado": "Desconectado",
             "Informción": "En descanso",
             "Fecha_hora": null
@@ -45,17 +45,17 @@
             "Nombre": "Ana",
             "Celular": "3036004242",
             "Contraseña": "ana123",
-            "Foto": "https://st4.depositphotos.com/4509995/21763/i/600/depositphotos_217634160-stock-photo-portrait-of-white-young-woman.jpg",
+            "Foto": "https://us.123rf.com/450wm/gpointstudio/gpointstudio1808/gpointstudio180800126/105868872-vista-de-perfil-del-rostro-de-la-mujer-en-la-foto-de-estudio.jpg",
             "Estado": "En linea",
             "Informción": "Estudiando",
             "Fecha_hora": null
         },
         {
             "id":6,
-            "Nombre": "Ana",
-            "Celular": "3036004242",
-            "Contraseña": "ana123",
-            "Foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwE4fgw2lqq7ZllWxMAhsQanKIcHLSze4IiQ&usqp=CAU",
+            "Nombre": "Paulina",
+            "Celular": "3013003030",
+            "Contraseña": "pau123",
+            "Foto": "https://blogs.ucontinental.edu.pe/wp-content/uploads/2021/03/perfiles-de-la-mujer-de-la-segunda-mitad-del-siglo-xxi-universidad-continental-1.jpg",
             "Estado": "En linea",
             "Informción": "Descansando",
             "Fecha_hora": null
