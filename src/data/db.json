@@ -68,10 +68,17 @@
             "idUser2": 2,
             "conversacion":[
                 {
-                    "sendBy": "id.Nombre",
-                    "date": "null",
-                    "hour": "null",
-                    "message": "null",
+                    "sendBy": "1",
+                    "date":"20 junio",
+                    "hour": "3:00",
+                    "message": "hola",
+                    "flag": "null"
+                },
+                {
+                    "sendBy": "2",
+                    "date":"20 junio",
+                    "hour": "3:01",
+                    "message": "bien y tu?",
                     "flag": "null"
                 }
             ]
@@ -79,3 +86,4 @@
         }
     ]
 }
+
