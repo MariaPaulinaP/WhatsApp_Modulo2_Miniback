@@ -71,16 +71,188 @@
                     "sendBy": "1",
                     "date":"20 junio",
                     "hour": "3:00",
-                    "message": "hola",
+                    "message": "Hola",
                     "flag": "null"
                 },
                 {
                     "sendBy": "2",
                     "date":"20 junio",
                     "hour": "3:01",
-                    "message": "bien y tu?",
+                    "message": "Bien y tu?",
+                    "flag": "null"
+                },
+                {
+                    "sendBy": "2",
+                    "date":"20 junio",
+                    "hour": "3:01",
+                    "message": "Necesito un favor",
+                    "flag": "null"
+                },
+                {
+                    "sendBy": "1",
+                    "date":"20 junio",
+                    "hour": "3:01",
+                    "message": "Si, claro, cuentame, en que te puedo ayudar?",
+                    "flag": "null"
+                },
+                {
+                    "sendBy": "2",
+                    "date":"20 junio",
+                    "hour": "3:01",
+                    "message": "Me puedes enviar la tabla de contabilidad",
+                    "flag": "null"
+                },
+                {
+                    "sendBy": "1",
+                    "date":"20 junio",
+                    "hour": "3:01",
+                    "message": "Claro, ya se lo envio, quedo atenta",
+                    "flag": "null"
+                } 
+            ]
+
+        },
+        {
+            "idUser1": 1,
+            "idUser2": 3,
+            "conversacion":[
+                {
+                    "sendBy": "1",
+                    "date":"20 junio",
+                    "hour": "3:00",
+                    "message": "Hola Alejo",
+                    "flag": "null"
+                },
+                {
+                    "sendBy": "3",
+                    "date":"20 junio",
+                    "hour": "3:01",
+                    "message": "Hola Pau, que hay de tu vida?",
+                    "flag": "null"
+                },
+                {
+                    "sendBy": "1",
+                    "date":"20 junio",
+                    "hour": "3:01",
+                    "message": "Bien, estudiando, tenemos pendiente la integración de la U",
+                    "flag": "null"
+                },
+                {
+                    "sendBy": "3",
+                    "date":"20 junio",
+                    "hour": "3:01",
+                    "message": "Listo, vamos a programarla",
                     "flag": "null"
                 }
+
+            ]
+
+        },
+        {
+            "idUser1": 1,
+            "idUser2": 4,
+            "conversacion":[
+                {
+                    "sendBy": "1",
+                    "date":"20 junio",
+                    "hour": "3:00",
+                    "message": "Hola, recuerda mañana el entrenamiento",
+                    "flag": "null"
+                },
+                {
+                    "sendBy": "4",
+                    "date":"20 junio",
+                    "hour": "3:01",
+                    "message": "Si, allá estaré!",
+                    "flag": "null"
+                },
+                {
+                    "sendBy": "1",
+                    "date":"20 junio",
+                    "hour": "3:01",
+                    "message": "Lo espero a las 8 am",
+                    "flag": "null"
+                },
+                {
+                    "sendBy": "4",
+                    "date":"20 junio",
+                    "hour": "3:01",
+                    "message": "Correcto, hasta mañana, gracias",
+                    "flag": "null"
+                }
+                
+            ]
+
+        },
+        {
+            "idUser1": 1,
+            "idUser2": 5,
+            "conversacion":[
+                {
+                    "sendBy": "1",
+                    "date":"20 junio",
+                    "hour": "3:00",
+                    "message": "Hola Mami, ya estoy en la escuela",
+                    "flag": "null"
+                },
+                {
+                    "sendBy": "5",
+                    "date":"20 junio",
+                    "hour": "3:01",
+                    "message": "Listo hija, mucha suerte",
+                    "flag": "null"
+                },
+                {
+                    "sendBy": "1",
+                    "date":"20 junio",
+                    "hour": "3:01",
+                    "message": "Vuelvo a casa en la tarde al terminas clase",
+                    "flag": "null"
+                },
+                {
+                    "sendBy": "5",
+                    "date":"20 junio",
+                    "hour": "3:01",
+                    "message": "Cuidate",
+                    "flag": "null"
+                }
+                
+            ]
+
+        },
+        {
+            "idUser1": 1,
+            "idUser2": 6,
+            "conversacion":[
+                {
+                    "sendBy": "1",
+                    "date":"20 junio",
+                    "hour": "3:00",
+                    "message": "Hola amiga",
+                    "flag": "null"
+                },
+                {
+                    "sendBy": "6",
+                    "date":"20 junio",
+                    "hour": "3:01",
+                    "message": "Hola Maria",
+                    "flag": "null"
+                },
+                {
+                    "sendBy": "1",
+                    "date":"20 junio",
+                    "hour": "3:01",
+                    "message": "Vamos a cine mañana?",
+                    "flag": "null"
+                },
+                {
+                    "sendBy": "6",
+                    "date":"20 junio",
+                    "hour": "3:01",
+                    "message": "Cool, vamos",
+                    "flag": "null"
+                }
+                
             ]
 
         }
