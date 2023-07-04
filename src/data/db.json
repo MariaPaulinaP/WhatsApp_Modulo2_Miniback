@@ -69,7 +69,6 @@
             "idUser2": 2,
             "conversacion":[
                 {
-                    "id":1,
                     "sendBy": "1",
                     "date":"20 junio",
                     "hour": "3:00",
@@ -77,7 +76,7 @@
                     "flag": "null"
                 },
                 {
-                    "id":2,
+                    
                     "sendBy": "2",
                     "date":"20 junio",
                     "hour": "3:01",
@@ -85,7 +84,7 @@
                     "flag": "null"
                 },
                 {
-                    "id":3,
+                  
                     "sendBy": "2",
                     "date":"20 junio",
                     "hour": "3:01",
@@ -93,7 +92,7 @@
                     "flag": "null"
                 },
                 {
-                    "id":4,
+                    
                     "sendBy": "1",
                     "date":"20 junio",
                     "hour": "3:01",
@@ -101,7 +100,7 @@
                     "flag": "null"
                 },
                 {
-                    "id":5,
+                   
                     "sendBy": "2",
                     "date":"20 junio",
                     "hour": "3:01",
@@ -109,7 +108,7 @@
                     "flag": "null"
                 },
                 {
-                    "id":6,
+                  
                     "sendBy": "1",
                     "date":"20 junio",
                     "hour": "3:01",
@@ -125,7 +124,7 @@
             "idUser2": 3,
             "conversacion":[
                 {
-                    "id":1,
+                   
                     "sendBy": "1",
                     "date":"20 junio",
                     "hour": "3:00",
@@ -133,7 +132,7 @@
                     "flag": "null"
                 },
                 {
-                    "id":2,
+                   
                     "sendBy": "3",
                     "date":"20 junio",
                     "hour": "3:01",
@@ -141,7 +140,7 @@
                     "flag": "null"
                 },
                 {
-                    "id":3,
+                    
                     "sendBy": "1",
                     "date":"20 junio",
                     "hour": "3:01",
@@ -149,7 +148,7 @@
                     "flag": "null"
                 },
                 {
-                    "id":4,
+                    
                     "sendBy": "3",
                     "date":"20 junio",
                     "hour": "3:01",
