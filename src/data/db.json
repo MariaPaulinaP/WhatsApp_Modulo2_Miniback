@@ -6,7 +6,7 @@
             "Celular": "3003003030",
             "Contraseña": "maria123",
             "Foto": "https://vivolabs.es/wp-content/uploads/2022/03/perfil-mujer-vivo.png",
-            "Estado": "En linea",
+            "Estado": false,
             "Informción": "Estudiando",
             "Fecha_hora": null
         },
@@ -16,7 +16,7 @@
             "Celular": "3005006363",
             "Contraseña": "sebas123",
             "Foto": "https://www.labsaenzrenauld.com/wp-content/uploads/2020/10/Perfil-hombre-ba%CC%81sico_738242395.jpg",
-            "Estado": "En linea",
+            "Estado": false,
             "Informción": "Trabajando",
             "Fecha_hora": null
         },
@@ -26,7 +26,7 @@
             "Celular": "3002004545",
             "Contraseña": "alejo123",
             "Foto": "https://aufloria.com/wp-content/uploads/2021/02/WhatsApp-Image-2021-02-18-at-14.18.38-2.jpeg",
-            "Estado": "Desconectado",
+            "Estado": false,
             "Informción": "Ocupado",
             "Fecha_hora": null
         },
@@ -36,7 +36,7 @@
             "Celular": "3049005656",
             "Contraseña": "jero123",
             "Foto": "https://p0.pikist.com/photos/201/646/man-profile-portrait-person-face-hood-bart-head-wall.jpg",
-            "Estado": "Desconectado",
+            "Estado": false,
             "Informción": "En descanso",
             "Fecha_hora": null
         },
@@ -46,7 +46,7 @@
             "Celular": "3036004242",
             "Contraseña": "ana123",
             "Foto": "https://us.123rf.com/450wm/gpointstudio/gpointstudio1808/gpointstudio180800126/105868872-vista-de-perfil-del-rostro-de-la-mujer-en-la-foto-de-estudio.jpg",
-            "Estado": "En linea",
+            "Estado": false,
             "Informción": "Estudiando",
             "Fecha_hora": null
         },
@@ -56,7 +56,7 @@
             "Celular": "3013003030",
             "Contraseña": "pau123",
             "Foto": "https://blogs.ucontinental.edu.pe/wp-content/uploads/2021/03/perfiles-de-la-mujer-de-la-segunda-mitad-del-siglo-xxi-universidad-continental-1.jpg",
-            "Estado": "En linea",
+            "Estado": false,
             "Informción": "Descansando",
             "Fecha_hora": null
         }
